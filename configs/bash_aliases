@@ -11,3 +11,4 @@ alias restart="systemctl restart"
 
 # Docker
 alias docker-local="docker -H localhost:2375"
+alias docker-swarm="docker -H localhost:4000"
