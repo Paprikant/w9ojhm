@@ -1,0 +1,13 @@
+# Navigation
+alias ll="ls -l"
+alias ..="cd .."
+
+# Systemctl aliases
+alias status="systemctl status"
+alias start="systemctl start"
+alias stop="systemctl stop"
+alias reload="systemctl reload"
+alias restart="systemctl restart"
+
+# Docker
+alias docker-local="docker -H localhost:2375"
